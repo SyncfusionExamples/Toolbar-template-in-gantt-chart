@@ -1,4 +1,4 @@
-# Toolbar-template-in-gantt-chart
+# Toolbar Template in Gantt Chart
 
 This sample explains about how to render the Blazor Gantt component with toolbar template.
 
